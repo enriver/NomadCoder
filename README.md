@@ -1,4 +1,4 @@
 # NomadCoder
-[Study] Studying web basics from NomadCoder
+[Study] Studying JS basics from NomadCoder
 
 Just for fun.
